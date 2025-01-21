@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi there! I'm ChunChih Yang 👋 </h1>
-<h3 align="center">🚀 Software Engineer 🚀</h3>
+<h1 align="center">Hi there! I'm ChunChih Yang.</h1>
+<h3 align="center">Software Engineer</h3>
 
 <div align="left"> 
   <h3> About Me </h3>
