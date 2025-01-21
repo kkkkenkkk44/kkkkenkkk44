@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
   - M.S. in Computer Science at Arizona State University
   - B.B.A. in Information Management at National Taiwan University
-  - Interested in Machine Learning, Distributed Software, and Cloud Computing
+  - Focus on Machine Learning, Distributed Software, and Cloud Computing
 </div>
   
 <!--<div>
