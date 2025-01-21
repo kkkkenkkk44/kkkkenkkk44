@@ -22,7 +22,7 @@ Here are some ideas to get you started:
   <h3> About Me </h3>
 
   - M.S. in Computer Science at Arizona State University
-  - B.B.A in Information Management at National Taiwan University
+  - B.B.A. in Information Management at National Taiwan University
   - Interested in Machine Learning, Distributed Software, and Cloud Computing
 </div>
   
