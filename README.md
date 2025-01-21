@@ -19,19 +19,12 @@ Here are some ideas to get you started:
 <h3 align="center">🚀 Software Engineer 🚀</h3>
 
 <div align="left"> 
-  <h3> 👨🏻‍💻 About Me </h3>
+  <h3> About Me </h3>
 
-  - 🎓 &nbsp; M.S. in Computer Science at Arizona State University
-  - 🌱 &nbsp; Learning more about Cloud Applications and Distributed Systems
-  - 😄 &nbsp; Interested in Distributed Software and Cloud Computing
+  - M.S. in Computer Science at Arizona State University
+  - B.B.A in Information Management at National Taiwan University
+  - Interested in Machine Learning, Distributed Software, and Cloud Computing
 </div>
-
-<h3> 🛠 &nbsp;Tech Stack</h3>
-
-- 💻 &nbsp;
-  Python | C++ | JavaScript
-- 🔧 &nbsp;
-  PyTorch | Linux | Git | Docker 
   
 <!--<div>
   <h3> 💻 Languages and Tools </h3>
