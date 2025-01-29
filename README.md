@@ -1,52 +1,46 @@
+### Hi there
 
-<!--
-**kkkkenkkk44/kkkkenkkk44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm Chun-Chih Yang.
 
-Here are some ideas to get you started:
+### 💻 &nbsp;About Me 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🤔 &nbsp; I am a software engineer focusing on Cloud applications and Databases.
+- 🎓 &nbsp; M.S. in Computer Science at Arizona State University.
+- 🎓 &nbsp; B.B.A in Information Management at National Taiwan University.
 
-<h1 align="center">Hi there! I'm ChunChih Yang.</h1>
-<h3 align="center">Software Engineer</h3>
 
-<div align="left"> 
-  <h3> About Me </h3>
+### 🛠 &nbsp;Tech Stack
 
-  - M.S. in Computer Science at Arizona State University
-  - B.B.A. in Information Management at National Taiwan University
-  - Focus on Machine Learning, Distributed Software, and Cloud Computing
-</div>
-  
-<!--<div>
-  <h3> 💻 Languages and Tools </h3>
-  <p>
-    <img src="https://www.linkpicture.com/q/c_3.png" width="50">
-    <img title="Python" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/python.svg" width="50" />
-    <img src="https://www.linkpicture.com/q/html_3.png" width="50">
-    <img src="https://www.linkpicture.com/q/js_10.png" width="55" height="55px">
-    <img src="https://www.linkpicture.com/q/css_1.png" width="50">
-    <img src="https://www.linkpicture.com/q/php_1.png" width="40">
-    <img src="https://www.linkpicture.com/q/d3js.png" width="45">
-    <img src="https://www.linkpicture.com/q/jupyter.png" width="50">
-    <img src="https://www.linkpicture.com/q/nodejs.png" width="80" height="65">
-    <img src="https://www.linkpicture.com/q/mysql.png" width="50">
-    <img src="https://www.linkpicture.com/q/tensorflow.png" width="100">
-    <img src="https://www.linkpicture.com/q/react_1.png" width="130">
-    <img src="https://www.linkpicture.com/q/vscode.png" width="150" height="65">
-  <p>
-</div> -->
+- Programming &nbsp;
+  ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+  ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
+  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
+- Frameworks/Tools &nbsp;
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+- Domain Knowledge &nbsp;
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 
-<p align="center">
-<a href="https://www.linkedin.com/in/chun-chih-yang/"><img src="https://github.com/sarthak77/sarthak77/blob/master/icons/icons8-linkedin-circled-48.png" alt="LinkedIn"></a> &nbsp; &nbsp;
-<a href="mailto:kenyang890404@gmail.com"><img src="https://github.com/sarthak77/sarthak77/blob/master/icons/icons8-gmail-48.png" alt="Gmail"></a> &nbsp; &nbsp;
+
+## My Stats
+<p>
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cdthomp1&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=cdthomp1&theme=radical&layout=compact&exclude_lang=java+r" />
+</a>
 </p>
 
-<!--https://icons8.com/icons/set/svg-->
+
+##  🤝🏻 &nbsp;Connect with Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/chun-chih-yang"><img src="https://img.shields.io/badge/-Cameron%20Thompson-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:kenyang890404@gamil.com"><img src="https://img.shields.io/badge/-kenyang890404@gamil.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+
+<!--
+**cdthomp1/cdthomp1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
