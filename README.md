@@ -6,7 +6,7 @@
 
 - 🤔 &nbsp; I am a software engineer focusing on cloud applications and databases.
 - 🎓 &nbsp; M.S. in Computer Science at Arizona State University.
-- 🎓 &nbsp; B.B.A in Information Management at National Taiwan University.
+- 🎓 &nbsp; B.B.A. in Information Management at National Taiwan University.
 
 
 ## My Stats
